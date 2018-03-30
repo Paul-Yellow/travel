@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#ACCFF6;">
+	<!ENTITY st1 "fill:#7EE2A6;">
+	<!ENTITY st2 "fill:#545454;">
+	<!ENTITY st3 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st4 "fill:#F7D237;">
+	<!ENTITY st5 "fill:#92B7EF;">
+	<!ENTITY st6 "fill:#C2C2C2;">
+	<!ENTITY st7 "fill:#C2E97E;">
+	<!ENTITY st8 "fill:#C779D3;">
+	<!ENTITY st9 "fill:#C7E2E2;">
+	<!ENTITY st10 "fill:#FBCA61;">
+	<!ENTITY st11 "fill:#FC6738;">
+	<!ENTITY st12 "fill:#999999;">
+	<!ENTITY st13 "fill:#FEE677;">
+	<!ENTITY st14 "fill:#FF9B74;">
+	<!ENTITY st15 "fill:#FFC7B6;">
+	<!ENTITY st16 "fill:#FFFFFF;">
+	<!ENTITY st17 "fill:#9C9C9C;">
+	<!ENTITY st18 "fill:#68C1C1;">
+	<!ENTITY st19 "fill:#DBDBDB;">
+	<!ENTITY st20 "fill:#404040;">
+	<!ENTITY st21 "fill:#43D17D;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st4;" cx="50" cy="50" r="49.999"/>
+	<circle style="&st3;" cx="50" cy="50" r="44.999"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path style="&st10;" d="M17.816,64.546v2.187c0,1.372,1.122,2.493,2.492,2.493h59.826c1.37,0,2.491-1.121,2.491-2.493v-2.187
+							H17.816z"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<polygon style="&st20;" points="60.192,74.831 40.251,74.831 42.745,66.464 57.7,66.464 						"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<rect x="37.759" y="73.586" style="&st2;" width="24.927" height="1.245"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<path style="&st20;" d="M80.135,27.155H20.309c-1.37,0-2.492,1.12-2.492,2.492v34.898h64.81V29.647
+								C82.626,28.275,81.505,27.155,80.135,27.155L80.135,27.155z"/>
+						</g>
+					</g>
+					<g>
+						<g>
+							<path style="&st2;" d="M17.816,64.546v2.187c0,1.372,1.122,2.493,2.492,2.493h59.826c1.37,0,2.491-1.121,2.491-2.493v-2.187
+								H17.816z"/>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<circle style="&st20;" cx="50.221" cy="66.464" r="1.246"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st18;" points="80.135,29.647 80.135,62.053 20.309,62.053 20.309,29.647 80.135,29.647 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.556" y="30.893" style="&st19;" width="57.332" height="29.913"/>
+			</g>
+			<g>
+				<g>
+					<polygon style="&st19;" points="55.208,30.893 78.888,30.893 76.396,28.401 55.208,28.401 					"/>
+				</g>
+				<g>
+					<polygon style="&st19;" points="45.236,28.401 24.048,28.401 21.556,30.893 45.236,30.893 					"/>
+				</g>
+			</g>
+			<g>
+				<polygon style="&st6;" points="78.888,60.806 21.556,60.806 24.048,58.313 76.396,58.313 				"/>
+			</g>
+			<g>
+				<path style="&st16;" d="M52.714,28.401c-1.377,0-2.492,1.115-2.492,2.491v29.913c0-1.377,1.115-2.493,2.492-2.493h23.682V28.401
+					H52.714z"/>
+			</g>
+			<g>
+				<path style="&st16;" d="M47.729,28.401c1.378,0,2.492,1.115,2.492,2.491v29.913c0-1.377-1.114-2.493-2.492-2.493H24.048V28.401
+					H47.729z"/>
+			</g>
+		</g>
+		<rect x="27.089" y="31.881" style="&st15;" width="19.437" height="11.728"/>
+		<rect x="27.089" y="44.584" style="&st6;" width="19.437" height="1.194"/>
+		<rect x="27.089" y="46.895" style="&st19;" width="9.123" height="8.062"/>
+		<rect x="37.405" y="46.895" style="&st19;" width="9.12" height="8.062"/>
+		<rect x="54.234" y="41.587" style="&st19;" width="9.12" height="13.369"/>
+		<rect x="64.549" y="41.587" style="&st19;" width="9.12" height="13.369"/>
+		<circle style="&st7;" cx="69.11" cy="35.789" r="3.909"/>
+		<circle style="&st9;" cx="58.796" cy="35.789" r="3.909"/>
+	</g>
+</g>
+</svg>

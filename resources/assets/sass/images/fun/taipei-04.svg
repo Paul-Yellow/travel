@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#AEDD47;">
+	<!ENTITY st1 "fill:#4A77A9;">
+	<!ENTITY st2 "fill:#E5D6C7;">
+	<!ENTITY st3 "clip-path:url(#SVGID_2_);fill:#DFDFDF;">
+	<!ENTITY st4 "fill:#EAC95D;">
+	<!ENTITY st5 "fill:#EDEDED;">
+	<!ENTITY st6 "fill:#545454;">
+	<!ENTITY st7 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st8 "opacity:0.25;fill:#FFFFFF;">
+	<!ENTITY st9 "fill:#F2F2F2;">
+	<!ENTITY st10 "fill:#F6B43F;">
+	<!ENTITY st11 "fill:#5DBBD0;">
+	<!ENTITY st12 "fill:#92B7EF;">
+	<!ENTITY st13 "clip-path:url(#SVGID_2_);fill:#595757;">
+	<!ENTITY st14 "fill:#C49669;">
+	<!ENTITY st15 "fill:#C779D3;">
+	<!ENTITY st16 "fill:#FBD764;">
+	<!ENTITY st17 "fill:#FC6738;">
+	<!ENTITY st18 "fill:#FCEFB9;">
+	<!ENTITY st19 "opacity:0.3;">
+	<!ENTITY st20 "fill:#FEE677;">
+	<!ENTITY st21 "fill:#FF9B74;">
+	<!ENTITY st22 "fill:#FFFFFF;">
+	<!ENTITY st23 "clip-path:url(#SVGID_2_);fill:#F7D237;">
+	<!ENTITY st24 "fill:none;stroke:#FFFFFF;stroke-width:0.4667;stroke-miterlimit:10;">
+	<!ENTITY st25 "fill:#686868;">
+	<!ENTITY st26 "fill:#68C1C1;">
+	<!ENTITY st27 "opacity:0.14;fill:#666666;">
+	<!ENTITY st28 "clip-path:url(#SVGID_2_);fill:#FC6738;">
+	<!ENTITY st29 "fill:#404040;">
+	<!ENTITY st30 "fill:#43D17D;">
+	<!ENTITY st31 "opacity:0.13;fill:#FFFFFF;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st20;" cx="50.001" cy="50" r="49.999"/>
+	<polygon style="&st30;" points="39.479,62.734 28.482,74.29 20.721,66.175 12.012,75.344 14.547,78.874 16.539,81.162 
+		51.682,81.162 53.299,81.162 53.299,79.487 53.299,77.273 	"/>
+	<polygon style="&st30;" points="71.711,64.289 60.715,75.845 52.951,67.729 42.961,78.251 42.961,80.978 42.961,82.717 
+		44.586,82.717 80.938,82.523 81.75,81.721 83.127,80.247 84.871,78.134 	"/>
+	<g>
+		<g>
+			<polygon style="&st9;" points="53.361,21.622 53.736,58.569 20.998,58.906 20.623,21.962 			"/>
+			<polygon style="&st11;" points="51.041,51.59 23.557,51.871 23.277,24.4 50.764,24.117 			"/>
+			<polygon style="&st1;" points="23.553,51.558 31.063,39.115 36.514,43.99 44.227,32.248 50.902,37.853 51.041,51.59 
+				23.557,51.871 			"/>
+			<path style="&st22;" d="M34.49,42.181l-1.521-0.11l-0.535,0.917l-0.416,0.708l-0.355-0.408l-0.594-0.672
+				c0,0-0.473,0.639-0.951,1.277c-0.479,0.625-0.959,1.256-1.021,1.27c-0.078,0.019-0.145-0.478-0.182-0.802
+				c-0.02-0.163-0.031-0.279-0.031-0.279l-1.205,0.641l3.383-5.606L34.49,42.181z"/>
+			<polygon style="&st22;" points="48.432,35.778 48.434,35.781 47.965,37.806 46.041,36.385 45.539,36.014 44.744,36.713 
+				44.492,36.93 44.387,36.801 43.777,36.032 42.689,37.231 42.383,37.566 42.223,37.349 41.787,36.757 40.855,37.381 
+				44.227,32.248 48.428,35.775 			"/>
+			<path style="&st8;" d="M34.455,47.426l-2.621,4.359l-8.277,0.086l-0.004-0.314l4.127-6.832l1.205-0.643
+				c0,0,0.01,0.117,0.031,0.282c0.035,0.322,0.102,0.82,0.184,0.802c0.059-0.016,0.545-0.645,1.02-1.271
+				c0.477-0.637,0.951-1.277,0.951-1.277l0.594,0.67l0.357,0.411l0.414-0.71l0.119-0.207L34.455,47.426z"/>
+			<polygon style="&st31;" points="36.516,43.986 34.455,47.422 32.555,42.777 31.068,39.122 34.492,42.181 			"/>
+			<polygon style="&st27;" points="50.902,37.851 51.014,48.841 45.869,36.256 44.229,32.247 48.432,35.777 48.432,35.778 			"/>
+			<path style="&st10;" d="M35.547,30.576c0.02,1.86-1.473,3.383-3.33,3.4c-1.863,0.021-3.387-1.472-3.404-3.331
+				c-0.02-1.859,1.473-3.38,3.334-3.399C34.006,27.227,35.529,28.718,35.547,30.576z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<rect x="49.976" y="51.774" transform="matrix(0.707 -0.7072 0.7072 0.707 -24.3355 53.241)" style="&st6;" width="4.218" height="8.431"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path style="&st29;" d="M22.273,26.175c-8.234,8.233-8.234,21.581,0,29.814c8.232,8.232,21.58,8.232,29.813-0.001
+					c8.234-8.234,8.232-21.58,0-29.813C43.852,17.942,30.508,17.94,22.273,26.175z M49.105,53.007
+					c-6.586,6.587-17.266,6.587-23.852,0.001s-6.586-17.266,0-23.853c6.586-6.586,17.266-6.583,23.85,0.002
+					C55.689,35.743,55.691,46.421,49.105,53.007z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="59.796" y="55.265" transform="matrix(0.7072 -0.707 0.707 0.7072 -29.274 65.1472)" style="&st29;" width="8.432" height="25.298"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="60.413" y="56.756" transform="matrix(0.7072 -0.707 0.707 0.7072 -30.7637 64.5223)" style="&st6;" width="4.217" height="25.298"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="50.852" y="58.373" transform="matrix(0.707 -0.7072 0.7072 0.707 -25.5698 56.2237)" style="&st22;" width="8.431" height="1.195"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="68.741" y="76.262" transform="matrix(0.707 -0.7072 0.7072 0.707 -32.9797 74.108)" style="&st22;" width="8.431" height="1.195"/>
+			</g>
+		</g>
+		<g style="&st19;">
+			<circle style="&st22;" cx="37.18" cy="41.081" r="16.866"/>
+		</g>
+	</g>
+	<circle style="&st7;" cx="50.001" cy="50" r="44.999"/>
+</g>
+</svg>

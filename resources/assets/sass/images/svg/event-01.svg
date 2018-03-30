@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#ACCFF6;">
+	<!ENTITY st1 "fill:#E34D7F;">
+	<!ENTITY st2 "fill:#828282;">
+	<!ENTITY st3 "fill:#B7EDCC;">
+	<!ENTITY st4 "fill:#EDEDED;">
+	<!ENTITY st5 "fill:#545454;">
+	<!ENTITY st6 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st7 "opacity:0.5;fill:#FFFFFF;">
+	<!ENTITY st8 "fill:#F7A83B;">
+	<!ENTITY st9 "fill:#F96E6E;">
+	<!ENTITY st10 "fill:#C2C2C2;">
+	<!ENTITY st11 "fill:#C2E97E;">
+	<!ENTITY st12 "fill:#FBCA61;">
+	<!ENTITY st13 "fill:#FBD764;">
+	<!ENTITY st14 "fill:#FC6738;">
+	<!ENTITY st15 "fill:#FCEFB9;">
+	<!ENTITY st16 "fill:#FEE677;">
+	<!ENTITY st17 "fill:#FFA3A3;">
+	<!ENTITY st18 "fill:#FFFFFF;">
+	<!ENTITY st19 "fill:none;">
+	<!ENTITY st20 "fill:#CA2F59;">
+	<!ENTITY st21 "fill:#9C9C9C;">
+	<!ENTITY st22 "fill:#68C1C1;">
+	<!ENTITY st23 "fill:#9DCED1;">
+	<!ENTITY st24 "fill:#D4B99B;">
+	<!ENTITY st25 "fill:#D9E9F9;">
+	<!ENTITY st26 "fill:#DBDBDB;">
+	<!ENTITY st27 "fill:#404040;">
+	<!ENTITY st28 "fill:#419CE0;">
+	<!ENTITY st29 "fill:#43D17D;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st22;" cx="50" cy="50" r="49.999"/>
+	<circle style="&st6;" cx="50" cy="50" r="44.999"/>
+	<g>
+		<g>
+			<g>
+				<path style="&st26;" d="M74.304,79.257c-3.324,0-6.02-2.695-6.02-6.02V60.403h6.02h6.021v12.834
+					C80.324,76.562,77.629,79.257,74.304,79.257z"/>
+			</g>
+			<g>
+				<path style="&st18;" d="M68.284,73.237V23.389c0-3.327,0-2.57,0-2.57H20.125v52.419c0,3.324,2.695,6.02,6.02,6.02h48.159
+					C70.979,79.257,68.284,76.562,68.284,73.237z"/>
+			</g>
+		</g>
+		<g>
+			<rect x="26.077" y="66.736" style="&st27;" width="18.061" height="0.753"/>
+		</g>
+		<g>
+			<rect x="26.077" y="62.028" style="&st24;" width="12.041" height="2.327"/>
+		</g>
+		<g>
+			<rect x="39.81" y="62.028" style="&st24;" width="7.526" height="2.327"/>
+		</g>
+		<g>
+			<rect x="26.077" y="28.83" style="&st21;" width="3.01" height="3.011"/>
+		</g>
+		<g>
+			<rect x="36.611" y="28.83" style="&st2;" width="3.011" height="3.011"/>
+		</g>
+		<g>
+			<rect x="47.181" y="28.864" style="&st27;" width="2.942" height="2.942"/>
+		</g>
+		<g>
+			<rect x="51.662" y="29.96" style="&st27;" width="10.535" height="0.751"/>
+		</g>
+		<g>
+			<rect x="41.126" y="29.96" style="&st27;" width="4.516" height="0.751"/>
+		</g>
+		<g>
+			<rect x="30.593" y="29.96" style="&st27;" width="4.515" height="0.751"/>
+		</g>
+		<g>
+			<rect x="26.077" y="69.37" style="&st27;" width="36.188" height="1.506"/>
+		</g>
+		<g>
+			<rect x="26.077" y="34.444" style="&st25;" width="36.12" height="24.079"/>
+		</g>
+		<g>
+			<polygon style="&st23;" points="43.573,41.497 35.175,46.484 26.077,58.523 55.193,58.523 			"/>
+		</g>
+		<g>
+			<polygon style="&st29;" points="62.197,51.901 53.739,44.114 39.81,58.523 62.197,58.523 			"/>
+		</g>
+	</g>
+</g>
+</svg>

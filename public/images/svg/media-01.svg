@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#ACCFF6;">
+	<!ENTITY st1 "fill:#7EE2A6;">
+	<!ENTITY st2 "fill:#545454;">
+	<!ENTITY st3 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st4 "fill:#F7D237;">
+	<!ENTITY st5 "fill:#92B7EF;">
+	<!ENTITY st6 "fill:#C2C2C2;">
+	<!ENTITY st7 "fill:#C2E97E;">
+	<!ENTITY st8 "fill:#C779D3;">
+	<!ENTITY st9 "fill:#C7E2E2;">
+	<!ENTITY st10 "fill:#FBCA61;">
+	<!ENTITY st11 "fill:#FC6738;">
+	<!ENTITY st12 "fill:#999999;">
+	<!ENTITY st13 "fill:#FEE677;">
+	<!ENTITY st14 "fill:#FF9B74;">
+	<!ENTITY st15 "fill:#FFC7B6;">
+	<!ENTITY st16 "fill:#FFFFFF;">
+	<!ENTITY st17 "fill:#9C9C9C;">
+	<!ENTITY st18 "fill:#68C1C1;">
+	<!ENTITY st19 "fill:#DBDBDB;">
+	<!ENTITY st20 "fill:#404040;">
+	<!ENTITY st21 "fill:#43D17D;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st14;" cx="50" cy="50" r="49.998"/>
+	<circle style="&st3;" cx="50" cy="50" r="44.998"/>
+	<g>
+		<g>
+			<g>
+				<path style="&st2;" d="M83.521,65.039c0,2.202-1.801,4.002-4.002,4.002H23.482c-2.202,0-4.003-1.8-4.003-4.002V34.686
+					c0-2.203,1.801-4.003,4.003-4.003H79.52c2.201,0,4.002,1.8,4.002,4.003V65.039z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="27.485" y="33.684" style="&st16;" width="48.03" height="32.355"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="22.982" y="47.985" style="&st20;" width="1" height="3.844"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path style="&st20;" d="M80.52,52.363c0,0.275-0.226,0.5-0.501,0.5h-1c-0.275,0-0.501-0.225-0.501-0.5V47.36
+					c0-0.274,0.226-0.5,0.501-0.5h1c0.275,0,0.501,0.226,0.501,0.5V52.363z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<rect x="29.727" y="35.853" style="&st4;" width="43.546" height="28.107"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path style="&st16;" d="M59.021,49.907c0,4.154-3.367,7.52-7.521,7.52c-4.155,0-7.52-3.365-7.52-7.52
+					c0-4.156,3.364-7.521,7.52-7.521C55.653,42.386,59.021,45.751,59.021,49.907z"/>
+			</g>
+			<g>
+				<polygon style="&st2;" points="55.984,49.908 47.959,45.897 47.959,53.915 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#ACCFF6;">
+	<!ENTITY st1 "fill:#E34D7F;">
+	<!ENTITY st2 "fill:#828282;">
+	<!ENTITY st3 "fill:#B7EDCC;">
+	<!ENTITY st4 "fill:#EDEDED;">
+	<!ENTITY st5 "fill:#545454;">
+	<!ENTITY st6 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st7 "opacity:0.5;fill:#FFFFFF;">
+	<!ENTITY st8 "fill:#F7A83B;">
+	<!ENTITY st9 "fill:#F96E6E;">
+	<!ENTITY st10 "fill:#C2C2C2;">
+	<!ENTITY st11 "fill:#C2E97E;">
+	<!ENTITY st12 "fill:#FBCA61;">
+	<!ENTITY st13 "fill:#FBD764;">
+	<!ENTITY st14 "fill:#FC6738;">
+	<!ENTITY st15 "fill:#FCEFB9;">
+	<!ENTITY st16 "fill:#FEE677;">
+	<!ENTITY st17 "fill:#FFA3A3;">
+	<!ENTITY st18 "fill:#FFFFFF;">
+	<!ENTITY st19 "fill:none;">
+	<!ENTITY st20 "fill:#CA2F59;">
+	<!ENTITY st21 "fill:#9C9C9C;">
+	<!ENTITY st22 "fill:#68C1C1;">
+	<!ENTITY st23 "fill:#9DCED1;">
+	<!ENTITY st24 "fill:#D4B99B;">
+	<!ENTITY st25 "fill:#D9E9F9;">
+	<!ENTITY st26 "fill:#DBDBDB;">
+	<!ENTITY st27 "fill:#404040;">
+	<!ENTITY st28 "fill:#419CE0;">
+	<!ENTITY st29 "fill:#43D17D;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st9;" cx="50" cy="50" r="49.999"/>
+	<circle style="&st6;" cx="50" cy="50" r="44.999"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path style="&st5;" d="M67.908,80.312c0,2.379-1.945,4.324-4.324,4.324H37.639c-2.379,0-4.324-1.945-4.324-4.324V24.097
+							c0-2.378,1.945-4.324,4.324-4.324h25.945c2.379,0,4.324,1.946,4.324,4.324V80.312z"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<rect x="35.478" y="28.421" style="&st18;" width="30.269" height="47.566"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<circle style="&st27;" cx="50.611" cy="80.312" r="2.162"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<rect x="48.449" y="23.557" style="&st27;" width="4.324" height="1.081"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path style="&st16;" d="M59.258,43.556c2.389,0,4.324-1.937,4.324-4.324h-8.648C54.934,41.619,56.869,43.556,59.258,43.556z"
+							/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path style="&st16;" d="M41.961,43.556c2.389,0,4.324-1.937,4.324-4.324h-8.648C37.637,41.619,39.572,43.556,41.961,43.556z"
+							/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path style="&st16;" d="M33.313,43.556c2.389,0,4.324-1.937,4.324-4.324h-8.648C28.988,41.619,30.925,43.556,33.313,43.556z"
+							/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path style="&st16;" d="M50.609,43.556c2.388,0,4.324-1.937,4.324-4.324h-8.648C46.285,41.619,48.221,43.556,50.609,43.556z"
+							/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path style="&st16;" d="M63.582,39.231c0,2.388,1.936,4.324,4.324,4.324c2.388,0,4.324-1.937,4.324-4.324H63.582z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon style="&st15;" points="65.744,28.421 35.475,28.421 28.988,39.231 72.23,39.231 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle style="&st11;" cx="50.561" cy="57.946" r="9.773"/>
+			</g>
+			<g>
+				<circle style="&st16;" cx="50.561" cy="57.946" r="8.145"/>
+			</g>
+			<g>
+				<path style="&st17;" d="M50.073,62.362c-1.249-0.107-2.165-0.584-2.806-1.236l0.914-1.284c0.44,0.464,1.082,0.881,1.892,1.022
+					v-1.879c-1.226-0.309-2.558-0.761-2.558-2.377c0-1.2,0.952-2.223,2.558-2.39v-1.105h1.13v1.129
+					c0.961,0.106,1.77,0.477,2.412,1.058l-0.939,1.237c-0.428-0.393-0.939-0.643-1.473-0.772v1.677c1.223,0.308,2.59,0.783,2.59,2.4
+					c0,1.319-0.855,2.33-2.59,2.508v1.083h-1.13V62.362z M50.073,57.144v-1.451c-0.536,0.072-0.833,0.368-0.833,0.773
+					C49.24,56.811,49.573,57.001,50.073,57.144z M51.203,59.271v1.594c0.582-0.119,0.879-0.464,0.879-0.831
+					C52.082,59.641,51.713,59.438,51.203,59.271z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

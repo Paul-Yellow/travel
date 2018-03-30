@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#ACCFF6;">
+	<!ENTITY st1 "fill:#7EE2A6;">
+	<!ENTITY st2 "fill:#545454;">
+	<!ENTITY st3 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st4 "fill:#F7D237;">
+	<!ENTITY st5 "fill:#92B7EF;">
+	<!ENTITY st6 "fill:#C2C2C2;">
+	<!ENTITY st7 "fill:#C2E97E;">
+	<!ENTITY st8 "fill:#C779D3;">
+	<!ENTITY st9 "fill:#C7E2E2;">
+	<!ENTITY st10 "fill:#FBCA61;">
+	<!ENTITY st11 "fill:#FC6738;">
+	<!ENTITY st12 "fill:#999999;">
+	<!ENTITY st13 "fill:#FEE677;">
+	<!ENTITY st14 "fill:#FF9B74;">
+	<!ENTITY st15 "fill:#FFC7B6;">
+	<!ENTITY st16 "fill:#FFFFFF;">
+	<!ENTITY st17 "fill:#9C9C9C;">
+	<!ENTITY st18 "fill:#68C1C1;">
+	<!ENTITY st19 "fill:#DBDBDB;">
+	<!ENTITY st20 "fill:#404040;">
+	<!ENTITY st21 "fill:#43D17D;">
+]>
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<circle style="&st5;" cx="50" cy="50" r="49.998"/>
+	<circle style="&st3;" cx="50" cy="50" r="44.998"/>
+	<g>
+		<g>
+			<g>
+				<path style="&st2;" d="M26.456,83.521c-2.202,0-4.002-1.801-4.002-4.002V23.482c0-2.202,1.8-4.003,4.002-4.003H56.81
+					c2.203,0,4.003,1.801,4.003,4.003V79.52c0,2.201-1.8,4.002-4.003,4.002H26.456z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="25.456" y="27.485" style="&st16;" width="32.355" height="48.03"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="39.666" y="22.982" style="&st20;" width="3.844" height="1"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path style="&st20;" d="M39.132,80.52c-0.275,0-0.5-0.226-0.5-0.501v-1c0-0.275,0.225-0.501,0.5-0.501h5.003
+					c0.274,0,0.5,0.226,0.5,0.501v1c0,0.275-0.226,0.501-0.5,0.501H39.132z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<rect x="27.535" y="29.727" style="&st4;" width="28.107" height="43.546"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path style="&st16;" d="M50.784,51.501c0,5.081-4.117,9.196-9.197,9.196c-5.082,0-9.197-4.115-9.197-9.196
+					c0-5.082,4.115-9.198,9.197-9.198C46.667,42.303,50.784,46.419,50.784,51.501z"/>
+			</g>
+		</g>
+		<g>
+			<polygon style="&st2;" points="37.44,49.187 35.157,49.187 35.157,53.746 37.456,53.746 43.36,58.292 43.36,44.616 37.44,49.178 
+							"/>
+			<path style="&st2;" d="M45.112,48.576l-0.688,1.35v0.032c0.432,0.352,0.713,0.879,0.713,1.478c0,0.598-0.281,1.126-0.713,1.477
+				v0.005l0.697,1.37c0.924-0.613,1.533-1.66,1.533-2.852C46.655,50.239,46.042,49.188,45.112,48.576z"/>
+		</g>
+	</g>
+	<g>
+		<path style="&st7;" d="M65.465,56.058l2.045,2.046c1.461-1.887,2.26-4.181,2.265-6.596c0.007-2.445-0.8-4.761-2.284-6.65
+			l-2.01,2.011c0.805,1.341,1.275,2.905,1.274,4.583C66.755,53.139,66.278,54.711,65.465,56.058z"/>
+		<path style="&st7;" d="M78.556,33.793l-2.351,2.35c7.77,8.682,7.762,21.915,0.004,30.66l2.404,2.403
+			C87.607,59.861,87.589,43.104,78.556,33.793z"/>
+		<path style="&st7;" d="M73.064,39.284l-2.427,2.427c4.733,5.613,4.735,13.885,0.021,19.541l2.407,2.408
+			C79.105,56.655,79.113,46.229,73.064,39.284z"/>
+	</g>
+</g>
+</svg>

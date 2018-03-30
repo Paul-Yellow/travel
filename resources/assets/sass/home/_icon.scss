@@ -1,0 +1,387 @@
+@charset "utf-8";
+.icon-message::before
+{
+    font-family: iconfont;
+    content: "\e720";
+    color: #3a6cc9;
+    font-size: 18px;
+}
+// 通知
+.icon-notification::before
+{
+    font-family: iconfont;
+    content: "\e74d";
+    color: #0CB8D6;
+    font-size: 26px;
+}
+.icon-comment::before
+{
+    font-family: iconfont;
+    content: "\e721";
+    color: #ccc;
+    font-size: 18px;
+}
+.icon-link::before
+{
+    font-family: iconfont;
+    content: "\e75a";
+    color: #ccc;
+    font-size: 18px;
+}
+.icon-tag::before
+{
+    font-family: iconfont;
+    content: "\e6ec";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-category::before
+{
+    font-family: iconfont;
+    content: "\e6df";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-share::before
+{
+    font-family: iconfont;
+    content: "\e759";
+    color: #3a6cc9;
+    font-size: 18px;
+}
+.icon-admin-index::before
+{
+    font-family: iconfont;
+    content: "\e71d";
+    color: #fff;
+    font-size: 18px;
+}
+
+.icon-admin-log::before
+{
+    font-family: iconfont;
+    content: "\e6de";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-event::before
+{
+    font-family: iconfont;
+    content: "\e749";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-newevent::before
+{
+    font-family: iconfont;
+    content: "\e74e";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-dashborde::before
+{
+    font-family: iconfont;
+    content: "\e6f7";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-actionlog::before
+{
+    font-family: iconfont;
+    content: "\e6fd";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-setting::before
+{
+    font-family: iconfont;
+    content: "\e758";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-user::before
+{
+    font-family: iconfont;
+    content: "\e6e6";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-role::before
+{
+    font-family: iconfont;
+    content: "\e731";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-permission::before
+{
+    font-family: iconfont;
+    content: "\e72a";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-menu::before
+{
+    font-family: iconfont;
+    content: "\e722";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-activitie-event::before
+{
+    font-family: iconfont;
+    content: "\e770";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-art-exhibitions::before
+{
+    font-family: iconfont;
+    content: "\e768";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-offers-activitie::before
+{
+    font-family: iconfont;
+    content: "\e76e";
+    color: #fff;
+    font-size: 18px;
+}
+// 玩转中原
+.icon-admin-topsyzhongyuan::before
+{
+    font-family: iconfont;
+    content: "\e713";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-knowzhongyuan::before
+{
+    font-family: iconfont;
+    content: "\e712";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-talent-recommended::before
+{
+    font-family: iconfont;
+    content: "\e718";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-theme-tour::before
+{
+    font-family: iconfont;
+    content: "\e745";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-tour-app::before
+{
+    font-family: iconfont;
+    content: "\e734";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-custom-itinerary::before
+{
+    font-family: iconfont;
+    content: "\e723";
+    color: #fff;
+    font-size: 18px;
+}
+// 旅游景点
+.icon-admin-tourist-attractions::before
+{
+    font-family: iconfont;
+    content: "\e726";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-theme-attractions::before
+{
+    font-family: iconfont;
+    content: "\e72e";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-attractions-search::before
+{
+    font-family: iconfont;
+    content: "\e77c";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-partition-search::before
+{
+    font-family: iconfont;
+    content: "\e77c";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-top10::before
+{
+    font-family: iconfont;
+    content: "\e753";
+    color: #fff;
+    font-size: 18px;
+}
+// 家乡特产
+.icon-admin-home-specialties::before
+{
+    font-family: iconfont;
+    content: "\e756";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-theme-specialtie::before
+{
+    font-family: iconfont;
+    content: "\e745";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-theme-specialtie-search::before
+{
+    font-family: iconfont;
+    content: "\e77c";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-season-specialtie::before
+{
+    font-family: iconfont;
+    content: "\e716";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-season-specialtie-search::before
+{
+    font-family: iconfont;
+    content: "\e77c";
+    color: #fff;
+    font-size: 18px;
+}
+// 旅馆住宿
+.icon-admin-hotel::before
+{
+    font-family: iconfont;
+    content: "\e71d";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-lodging-cargory::before
+{
+    font-family: iconfont;
+    content: "\e709";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-lodging-search::before
+{
+    font-family: iconfont;
+    content: "\e77c";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-lodging-notice::before
+{
+    font-family: iconfont;
+    content: "\e710";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-room-price::before
+{
+    font-family: iconfont;
+    content: "\e762";
+    color: #fff;
+    font-size: 18px;
+}
+// 旅客服务
+.icon-admin-travel-advisory::before
+{
+    font-family: iconfont;
+    content: "\e709";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-traffic-info::before
+{
+    font-family: iconfont;
+    content:"\e6f9";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-travelers-service::before
+{
+    font-family: iconfont;
+    content: "\e72f";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-travel-notice::before
+{
+    font-family: iconfont;
+    content: "\e721";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-gov-info::before
+{
+    font-family: iconfont;
+    content: "\e73d";
+    color: #fff;
+    font-size: 18px;
+}
+// 影像资料
+.icon-admin-video-jobs::before
+{
+    font-family: iconfont;
+    content: "\e743";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-hot-video::before
+{
+    font-family: iconfont;
+    content: "\e776";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-hot-image::before
+{
+    font-family: iconfont;
+    content: "\e73f";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-hot-scener::before
+{
+    font-family: iconfont;
+    content: "\e75a";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-admin-history-memory::before
+{
+    font-family: iconfont;
+    content: "\e715";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-wexin::before
+{
+    font-family: iconfont;
+    content: "\e681";
+    color: #fff;
+    font-size: 18px;
+}
+.icon-image::before
+{
+    font-family: iconfont;
+    content: "\e73f";
+    color: #fff;
+    font-size:18px;
+}
